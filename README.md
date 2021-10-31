@@ -4,7 +4,7 @@ This repository is dedicated to serve developers for  "good first issue" in Hack
 
 To open a PR (pull request) for this repo:
 
-Step 1. Fork the repo
+Step 1. Fork the repo yu 
 
 Step 2. Make a separate folder on your local computer
 
