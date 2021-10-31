@@ -6,7 +6,7 @@ To open a PR (pull request) for this repo:
 
 Step 1. Fork the repo yu 
 
-Step 2. Make a separate folder on your local computer
+Step 2. Make a separate folder on your local computer and for pc
 
 Step 3. Right click > Git bash here.
 
